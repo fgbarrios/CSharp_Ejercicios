@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\Clase15_Serializacion.exe
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\Clase15_Serializacion.deps.json
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\Clase15_Serializacion.runtimeconfig.json
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\Clase15_Serializacion.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\Clase15_Serializacion.dll
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\ref\Clase15_Serializacion.dll
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\bin\Debug\net5.0\Clase15_Serializacion.pdb
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.AssemblyInfo.cs
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.dll
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\ref\Clase15_Serializacion.dll
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.pdb
+C:\Users\PC\source\repos\Clase15_Serializacion\Clase15_Serializacion\obj\Debug\net5.0\Clase15_Serializacion.genruntimeconfig.cache

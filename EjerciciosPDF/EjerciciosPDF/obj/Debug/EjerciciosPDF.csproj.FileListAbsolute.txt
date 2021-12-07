@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\bin\Debug\EjerciciosPDF.exe.config
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\bin\Debug\EjerciciosPDF.exe
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\bin\Debug\EjerciciosPDF.pdb
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\obj\Debug\EjerciciosPDF.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\obj\Debug\EjerciciosPDF.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\obj\Debug\EjerciciosPDF.exe
+C:\Users\PC\source\repos\EjerciciosPDF\EjerciciosPDF\obj\Debug\EjerciciosPDF.pdb

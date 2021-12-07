@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Ejercicio_Validador de rangos.exe
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Ejercicio_Validador de rangos.deps.json
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Ejercicio_Validador de rangos.runtimeconfig.json
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Ejercicio_Validador de rangos.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Ejercicio_Validador de rangos.dll
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\ref\Ejercicio_Validador de rangos.dll
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Ejercicio_Validador de rangos.pdb
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.csproj.CopyComplete
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.dll
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\ref\Ejercicio_Validador de rangos.dll
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.pdb
+C:\Users\PC\source\repos\Ejercicios_Extras\Ejercicio_Validador de rangos\Ejercicio_Validador de rangos\obj\Debug\net5.0\Ejercicio_Validador de rangos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\Ejercicio_Factorial.exe
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\Ejercicio_Factorial.deps.json
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\Ejercicio_Factorial.runtimeconfig.json
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\Ejercicio_Factorial.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\Ejercicio_Factorial.dll
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\ref\Ejercicio_Factorial.dll
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\bin\Debug\net5.0\Ejercicio_Factorial.pdb
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.dll
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\ref\Ejercicio_Factorial.dll
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.pdb
+C:\Users\PC\source\repos\Ejercicio_Factorial\Ejercicio_Factorial\obj\Debug\net5.0\Ejercicio_Factorial.genruntimeconfig.cache

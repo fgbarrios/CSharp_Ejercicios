@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\bin\Debug\Ejercicio_04.exe.config
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\bin\Debug\Ejercicio_04.exe
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\bin\Debug\Ejercicio_04.pdb
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\obj\Debug\Ejercicio_04.exe
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\obj\Debug\Ejercicio_04.pdb
+C:\Users\PC\source\repos\EjerciciosPDF\Ejercicio_04\obj\Debug\Ejercicio04.csproj.AssemblyReference.cache
